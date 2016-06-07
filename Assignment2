@@ -1,0 +1,6 @@
+1. The major sources of big data include: Social Media, Sensor Data, Web applications, Mobile applications e.t.c
+2. The criteria to determine if a data is a big data include volume, velocity and variety
+3. Examples of unstructured data include: Audio, Video, Images, health records, metadata, text, email body e.t.c
+4. Streaming data is a data that comes in real time and is generated continuously in huge volume and with high velocity. Its source could be from the web, sensors, financial trading floor or even social networks 
+5. The difference between batch data and streaming data is that batch data is collected and stored till it meets that window of time designated before it is processed while streaming data which is generated continuously in high velocity is processed as soon as it is collected.
+6. 15mins
